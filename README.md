@@ -18,6 +18,12 @@ The following **required** functionality is completed:
 <img src='IOS_prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## App Brainstorming (Step 4)
+Notion
+  - Flexible templates for organization.
+  - Syncing across devices.
+
+App Idea:
+  - I want to build a habit-tracking app. It will help users track daily habits like drinking water, exercising, or reading. The app will include reminders, progress charts, and motivational badges. Users can also share their progress with friends for encouragement. This app will be simple and fun to use, helping people stay consistent with their goals.
 
 ## Notes
 
@@ -38,11 +44,3 @@ The instructions are clear and easy to follow.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-  ## App Brainstorming
-  Notion
-  - Flexible templates for organization.
-  - Syncing across devices.
-  - 
-  App Idea:
-  - I want to build a habit-tracking app. It will help users track daily habits like drinking water, exercising, or reading. The app will include reminders, progress charts, and motivational badges. Users can also share their progress with friends for encouragement. This app will be simple and fun to use, helping people stay consistent with their goals.
